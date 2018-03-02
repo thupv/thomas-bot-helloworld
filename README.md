@@ -1,1 +1,1 @@
-# Helloworld messenger bot with Rails
+# messenger bot with Rails
